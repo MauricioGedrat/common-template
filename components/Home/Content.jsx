@@ -4,7 +4,7 @@ import NavRight from "./NavRight";
 
 const Content = () => {
   return (
-    <div className="flex justify-between bg-gray-700">
+    <div className="flex justify-between bg-gray-700 content">
       <NavLeft />
       <h1 className="p-8">Content</h1>
       <NavRight />
